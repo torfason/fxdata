@@ -38,14 +38,14 @@ restrictions or other reasons.
 | GBP    | Pound Sterling              | 1999-2025 | 1981-2025 | 1971-2025 |
 | JPY    | Japanese Yen                | 1999-2025 | 1981-2025 | 1971-2025 |
 | NOK    | Norwegian Krone             | 1999-2025 | 1981-2025 | 1971-2025 |
-| SEK    | Swedish Krona               | 1999-2025 | 1981-2025 | 1981-2025 |
+| SEK    | Swedish Krona               | 1999-2025 | 1981-2025 | 1971-2025 |
 | AUD    | Australian Dollar           | 1999-2025 | 2006-2025 | 1971-2025 |
 | NZD    | New Zealand Dollar          | 1999-2025 | 2006-2025 | 1971-2025 |
-| SGD    | Singapore Dollar            | 1999-2025 | 2006-2025 | 1971-2025 |
 | ZAR    | South African Rand          | 1999-2025 | 2006-2025 | 1980-2025 |
 | HKD    | Hong Kong Dollar            | 1999-2025 | 2006-2025 | 1981-2025 |
 | KRW    | South Korean Won            | 1999-2025 | 2006-2025 | 1981-2025 |
-| CNY    | Yuan Renminbi               | 2005-2025 | 2006-2025 | 1981-2025 |
+| SGD    | Singapore Dollar            | 1999-2025 | 2006-2025 | 1981-2025 |
+| CNY    | Yuan Renminbi               | 2005-2025 | 1981-2025 | 1981-2025 |
 | THB    | Thai Baht                   | 2005-2025 | 2008-2025 | 1981-2025 |
 | MXN    | Mexican Peso                | 2008-2025 | 2006-2025 | 1993-2025 |
 | BRL    | Brazilian Real              | 2008-2025 | 2006-2025 | 1995-2025 |
@@ -84,13 +84,13 @@ restrictions or other reasons.
 | PTE    | Portuguese Escudo           |     .     | 1981-2002 |     .     |
 | XDR    | Special Drawing Rights      |     .     | 1981-2025 |     .     |
 | BEF    | Belgian Franc               |     .     | 1990-2002 |     .     |
-| GRD    | Greek Drachma               |     .     | 1991-2002 |     .     |
+| GRD    | Greek Drachma               |     .     | 1992-2002 |     .     |
 | NGN    | Nigerian Naira              |     .     | 2006-2025 |     .     |
 | SRD    | Surinamese Dollar           |     .     | 2006-2025 |     .     |
 | JMD    | Jamaican Dollar             |     .     | 2010-2025 |     .     |
 | VEF    | Venezuelan Bolívar (old)    |     .     | 2013-2018 |     .     |
 | SAR    | Saudi Riyal                 |     .     | 2013-2025 |     .     |
-| KWD    | Kuwaiti Dinar               |     .     | 2025-2025 |     .     |
+| KWD    | Kuwaiti Dinar               |     .     | 2024-2025 |     .     |
 | LKR    | Sri Lankan Rupee            |     .     |     .     | 1973-2025 |
 | VES    | Venezuelan Bolívar Soberano |     .     |     .     | 1995-2025 |
 
